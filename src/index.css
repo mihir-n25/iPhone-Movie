@@ -175,6 +175,7 @@ nav .list-styled {
 
 nav .link-styled {
   font-size: 12px;
+  cursor: pointer;
   font-weight: 400;
   letter-spacing: -0.01em;
   line-height: 1;
